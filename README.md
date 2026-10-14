@@ -21,7 +21,7 @@ Progress and reflections are saved in browser `localStorage`, so they stay in th
 - `style.css` — responsive visual system
 - `app.js` — career data, scenarios, UI behavior, and persistence
 
-There are no runtime dependencies. The optional Google Fonts request falls back to system fonts when offline. User reflections are rendered as text, not HTML.
+There are no runtime dependencies or third-party requests. Typefaces are bundled under `fonts/` with their OFL licenses. User reflections are rendered as text, not HTML.
 
 ## License
 

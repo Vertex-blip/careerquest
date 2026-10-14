@@ -20,6 +20,7 @@ Progress and reflections are saved in browser `localStorage`, so they stay in th
 - `index.html` — page structure and dialogs
 - `style.css` — responsive visual system
 - `app.js` — career data, scenarios, UI behavior, and persistence
+- `assets/field-guide.svg` — original illustrated cover for the field-guide theme
 
 There are no runtime dependencies or third-party requests. Typefaces are bundled under `fonts/` with their OFL licenses. User reflections are rendered as text, not HTML.
 

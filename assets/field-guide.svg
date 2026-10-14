@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="520" viewBox="0 0 640 520" role="img" aria-labelledby="title desc">
+  <title id="title">Illustrated career field guide</title>
+  <desc id="desc">An open field guide listing six kinds of work to explore.</desc>
+  <defs>
+    <filter id="shadow" x="-30%" y="-30%" width="160%" height="160%"><feDropShadow dx="15" dy="18" stdDeviation="14" flood-color="#34434a" flood-opacity=".15"/></filter>
+    <pattern id="dots" width="12" height="12" patternUnits="userSpaceOnUse"><circle cx="1.5" cy="1.5" r="1" fill="#d2c8b9" opacity=".65"/></pattern>
+  </defs>
+  <rect x="35" y="25" width="570" height="470" rx="12" fill="url(#dots)" opacity=".45"/>
+  <path d="M62 430 C137 391 208 423 282 390" fill="none" stroke="#d7a27c" stroke-width="2" stroke-dasharray="3 9"/>
+  <circle cx="61" cy="430" r="5" fill="#d87e54"/>
+  <g transform="rotate(-3 319 257)" filter="url(#shadow)">
+    <rect x="105" y="38" width="436" height="442" rx="10" fill="#fffdf8" stroke="#c8bcac" stroke-width="1.5"/>
+    <path d="M105 48 q0-10 10-10 h31 v442 h-31 q-10 0-10-10z" fill="#e9e3d7"/>
+    <path d="M146 39 v441" stroke="#c7bbae" stroke-width="1.5"/>
+    <g fill="none" stroke="#617981" stroke-width="3"><path d="M92 91 h29 a8 8 0 0 1 0 16 h-29"/><path d="M92 150 h29 a8 8 0 0 1 0 16 h-29"/><path d="M92 209 h29 a8 8 0 0 1 0 16 h-29"/><path d="M92 268 h29 a8 8 0 0 1 0 16 h-29"/><path d="M92 327 h29 a8 8 0 0 1 0 16 h-29"/><path d="M92 386 h29 a8 8 0 0 1 0 16 h-29"/></g>
+    <rect x="468" y="29" width="51" height="19" rx="2" fill="#e39b70"/><text x="493.5" y="42" fill="#fffaf3" font-family="Arial,sans-serif" font-size="8" font-weight="bold" letter-spacing="1.5" text-anchor="middle">VOL. 01</text>
+    <text x="173" y="83" fill="#cc7951" font-family="Arial,sans-serif" font-size="10" font-weight="bold" letter-spacing="3">CAREERQUEST  /  FIELD GUIDE</text>
+    <path d="M173 98 h335" stroke="#d5c8b7" stroke-width="1"/>
+    <text x="173" y="139" fill="#1b3640" font-family="Arial,sans-serif" font-size="26" font-weight="bold" letter-spacing="-.7">What does the work</text>
+    <text x="173" y="169" fill="#1b3640" font-family="Arial,sans-serif" font-size="26" font-weight="bold" letter-spacing="-.7">actually look like?</text>
+    <path d="M173 182 q87 10 169-2" fill="none" stroke="#e39b70" stroke-width="4" stroke-linecap="round" opacity=".65"/>
+    <g font-family="Arial,sans-serif" font-size="12" fill="#29444a">
+      <rect x="173" y="203" width="334" height="38" rx="5" fill="#e8f0ea"/><text x="186" y="227" font-weight="bold" fill="#4f9873">01</text><text x="223" y="227">Find the pattern</text><text x="484" y="227" text-anchor="end" fill="#7a9a85">DATA</text>
+      <rect x="173" y="248" width="334" height="38" rx="5" fill="#f7e9dd"/><text x="186" y="272" font-weight="bold" fill="#d58057">02</text><text x="223" y="272">Make it easier to use</text><text x="484" y="272" text-anchor="end" fill="#b8947b">DESIGN</text>
+      <rect x="173" y="293" width="334" height="38" rx="5" fill="#e6edf2"/><text x="186" y="317" font-weight="bold" fill="#56839a">03</text><text x="223" y="317">Build the system</text><text x="484" y="317" text-anchor="end" fill="#8ca5ad">CODE</text>
+      <rect x="173" y="338" width="334" height="38" rx="5" fill="#f4edda"/><text x="186" y="362" font-weight="bold" fill="#ad8e4d">04</text><text x="223" y="362">Study the evidence</text><text x="484" y="362" text-anchor="end" fill="#b3a37a">SCIENCE</text>
+      <rect x="173" y="383" width="161" height="38" rx="5" fill="#eee7f1"/><text x="186" y="407" font-weight="bold" fill="#9473a4">05</text><text x="223" y="407">Tell the story</text>
+      <rect x="341" y="383" width="166" height="38" rx="5" fill="#e2ece9"/><text x="354" y="407" font-weight="bold" fill="#609d8a">06</text><text x="391" y="407">Shape the place</text>
+    </g>
+    <path d="M173 445 h334" stroke="#d5c8b7" stroke-width="1"/>
+    <text x="173" y="461" fill="#b77b5d" font-family="Arial,sans-serif" font-size="9" font-weight="bold" letter-spacing="1.8">CHOOSE  →  TRY  →  REFLECT</text>
+  </g>
+  <path d="M557 390 l16 10 -20 1 10 19 -19-12 -10 13 3-22 -17-9 22-2 4-19z" fill="#e1a778" opacity=".9"/>
+</svg>

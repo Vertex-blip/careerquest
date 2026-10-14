@@ -1,5 +1,7 @@
 # CareerQuest
 
+<img src="./logo.svg" width="48" height="48" alt="CareerQuest logo">
+
 Explore six careers by making a few realistic decisions from the work itself. CareerQuest gives visitors a short mission, immediate reasoning for each choice, and a place to reflect on what felt interesting.
 
 ## Run

@@ -1,0 +1,2 @@
+.brand-symbol{display:block;width:36px;height:36px;flex:none;margin-right:10px}
+@media(max-width:640px){.brand-symbol{width:32px;height:32px;margin-right:8px}}
